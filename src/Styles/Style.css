@@ -31,7 +31,7 @@ body {
     background-position: center; /* This centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     padding: 50px 0; /* Adds some padding to the top and bottom */
-    color: white; /* Keep the text readable */
+    color: black; /* Keep the text readable */
 }
 
 
