@@ -25,15 +25,15 @@ body {
 }
 .canvas-welcome-section {
     background-color: cornflowerblue;
+    font-family: 'Scriptina', sans-serif; /* You can change 'Arial' to any other font */
 }
 
-.wel-section h2 {
-    color: white;
-}
-
+.wel-section h2, 
 .wel-section p {
     color: white;
+    font-family: 'Scriptina', sans-serif; /* Apply the font to both heading and paragraph */
 }
+
 
 /* Canvas Styles */
 
