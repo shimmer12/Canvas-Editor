@@ -23,6 +23,17 @@ body {
   align-items: center;
   justify-content: center;
 }
+.canvas-welcome-section {
+    background-color: cornflowerblue;
+}
+
+.wel-section h2 {
+    color: white;
+}
+
+.wel-section p {
+    color: white;
+}
 
 /* Canvas Styles */
 
