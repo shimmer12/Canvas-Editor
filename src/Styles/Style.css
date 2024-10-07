@@ -26,7 +26,7 @@ body {
 .canvas-welcome-section {
     background-color: cornflowerblue;
     font-family: 'Scriptina', sans-serif; /* You can change 'Scriptina' to any other font */
-    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreate.vista.com%2Fphotos%2Fpaints%2F&psig=AOvVaw27h4D2sD9j5k43d-QOMgO7&ust=1728399412846000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCh5uDD_IgDFQAAAAAdAAAAABAE'); /* Add your image URL here */
+    background-image: url('https://cdn.create.vista.com/api/media/medium/263608680/stock-photo-top-view-three-tins-paints-brush-blue-surface?token='); /* Add your image URL here */
     background-size: cover; /* This ensures the image covers the entire section */
     background-position: center; /* This centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
